@@ -13,7 +13,7 @@ public class Checkpoint1 {
                     sum = value + sum;
                 }
             }
-            System.out.println("Outside for:" + sum);
+            System.out.println("Sum: " + sum);
         }
     }
 }
